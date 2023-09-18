@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Video Walkthrough](https://github.com/programmersyed/ios101-project1-wordle-starter/blob/main/Kapture%202023-09-18%20at%2015.29.24.gif)
+![Video Walkthrough](https://github.com/programmersyed/ios101-project1-wordle-starter/raw/main/Kapture%202023-09-18%20at%2015.29.24.gif)
 
 
 ## Notes
